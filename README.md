@@ -25,3 +25,9 @@ T | Reset puppet translation.
 C | Change puppet's left side pose through UI.
 V | Change puppet's right side pose through UI.
 P | Reset puppet pose.
+
+## Example
+
+https://github.com/Alfonso-Cardenas/Puppet/assets/138409141/de058c7e-58e7-4ff4-aff5-dcd1dd0fe43f
+
+
