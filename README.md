@@ -2,7 +2,7 @@
 
 ![PuppetHello](https://github.com/Alfonso-Cardenas/Puppet/assets/138409141/87e1e038-cc47-4f8d-bdb1-7e262be74ccb)
 
-Welcome! This project is an example of a movable puppet created entirely in OpenGL and C++, which purpose is to undertand and implement the use of vertex arrays and buffers, shaders, hierarchical transforms, etc.
+Welcome! This project is an example of a movable puppet created entirely in OpenGL and C++, which purpose is to understand and implement the use of vertex arrays and buffers, shaders, hierarchical transforms, etc.
 
 ## User Interface
 
